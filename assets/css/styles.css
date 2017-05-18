@@ -6,7 +6,18 @@ header, footer{
 .color-columna-dos {
   background-color: purple;
 }
+.color-precio {
+  color: red;
+}
 
-.color-columna-tres {
-  background-color: red;
+.color-verde-texto {
+  color:#51B525;
+}
+
+.tipo-negrita {
+  font-weight: bold;
+}
+
+.imagen-ancho {
+  width: 110%;
 }
